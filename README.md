@@ -68,6 +68,7 @@ print("RMSE= ",rmse)
 ```
 
 ## Output:
+```
 Data Set:
 ![image](https://github.com/user-attachments/assets/af30833d-3326-48ca-a0c7-53c114cbcf8b)
 Head Value:
@@ -84,6 +85,7 @@ Training Set:
 ![image](https://github.com/user-attachments/assets/fa675edc-8aa0-4551-8b6e-05ecc1f2f9ff)
 Testing Set:
 ![image](https://github.com/user-attachments/assets/a239c1a5-2192-419b-a273-dd1af37a7df1)
+```
 
 ## Result:
 Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
